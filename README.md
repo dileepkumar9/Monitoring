@@ -1,2 +1,2 @@
 # Monitoring
-This repo covers monitoring like Prometheus and Grafana
+This repo covers monitoring tools like Prometheus and Grafana
